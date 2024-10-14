@@ -1,0 +1,16 @@
+python .\testing.py
+ls -l
+ls
+git in
+git init
+ls -a
+dir -a
+dir
+git status
+dir
+git status
+git add .\test.py
+git add testing.py
+git rm --cached test.py
+git status
+git commit -m "added test
