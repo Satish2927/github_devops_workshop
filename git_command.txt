@@ -14,3 +14,16 @@ git add testing.py
 git rm --cached test.py
 git status
 git commit -m "added test
+git commit -m "added testing file"
+git status
+rm test.py
+git status
+rm testing.py
+git status
+git restored testing.py
+git restore testing.py
+git status
+history
+git add git_command.txt
+git status
+git commit -m "git_command added"
