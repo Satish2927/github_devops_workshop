@@ -24,6 +24,8 @@ git restored testing.py
 git restore testing.py
 git status
 history
-git add git_command.txt
+git add git_command.txt 
 git status
 git commit -m "git_command added"
+
+this is new changes
